@@ -1,12 +1,9 @@
 # Sidebar menu
 menu:
   home: /
-  # about: /about
-  # links: /links
-  archives: /archives
-  tags: /tags
-  categories: /categories
-#  404: /404
+  about: /about
+  links: /links
+  #  404: /404
 
 # Routes for custom pages
 page:

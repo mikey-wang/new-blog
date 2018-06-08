@@ -1,0 +1,82 @@
+# Sidebar menu
+menu:
+  home: /
+  # about: /about
+  # links: /links
+  archives: /archives
+  tags: /tags
+  categories: /categories
+#  404: /404
+
+# Routes for custom pages
+page:
+  # - about
+  # - links
+  # Multi-level route example
+  # - awesome-stuff:
+  #   - chapter-1
+  #   - chapter-2
+
+# Profile
+profile:
+  avatar: /avatar.jpg
+  # Email address will be used for showing gravatar(https://en.gravatar.com) avatar if `avatar` is not specified.
+  email: readmethx@gmail.com
+  bio: '一个商科范儿的coder'
+
+# Social media
+sns:
+  github: https://github.com/yourname
+  twitter: https://twitter.com/yourname
+  gplus: https://plus.google.com/u/0/xxx
+  weibo: http://weibo.com/yourname
+
+footer:
+  # If not defined, will display current year and author, eg: ©2018 • Superman
+  copyright:
+
+  # Set `powered` to false to hide Hexo link.
+  powered: false
+  # Set `theme` to false to hide theme info.
+  theme: false
+
+  # Custom text can be defined here.
+  # custom: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+
+# Disqus comments
+disqus:
+  shortname: mwb-1
+  # Set to true to auto load disqus, otherwise will display a button
+  autoload: false
+
+# Assets path
+assets:
+  # prefix: 'https://cdn.example.com'
+  # suffix: '?m=webp&q=80'
+
+# Web App Manifest
+manifest:
+  # short_name:
+  # name:
+  # start_url: /
+  # theme_color: '#2a2b33'
+  # background_color: '#2a2b33'
+  # icons:
+  #   - src: icon-194x194.png
+  #     sizes: 194x194 512x512
+  #     type: image/png
+  #   - src: icon-144x144.png
+  #     sizes: 144x144
+  #     type: image/png
+
+### Pagination size
+# The amount of posts displayed on a single archive/tag/category page, default is `10`, set to `0` to disable pagination.
+archive:
+  per_page: 10
+tag:
+  per_page: 10
+category:
+  per_page: 10
+
+# Google analytics
+# ga: UA-00000000-0

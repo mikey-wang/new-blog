@@ -1,7 +1,12 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "MWblog",
+  "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "dev": "hexo server",
+    "build": "hexo g -d",
+    "clean": "hexo clean"
+  },
   "hexo": {
     "version": "3.7.1"
   },

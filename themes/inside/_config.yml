@@ -2,15 +2,15 @@
 menu:
   home: /
   about: /about
-  links: /links
+  #  links: /links
   #  404: /404
 
 # Routes for custom pages
 page:
-  # - about
+    - about
   # - links
   # Multi-level route example
-  # - awesome-stuff:
+  # - business:
   #   - chapter-1
   #   - chapter-2
 
@@ -23,10 +23,10 @@ profile:
 
 # Social media
 sns:
-  github: https://github.com/yourname
-  twitter: https://twitter.com/yourname
-  gplus: https://plus.google.com/u/0/xxx
-  weibo: http://weibo.com/yourname
+  github: https://github.com/Mickey-Wang
+  twitter: https://twitter.com/Laughing____
+  gplus: https://plus.google.com/u/0/116670506696820752732
+  weibo: http://weibo.com/MickeyLaughing
 
 footer:
   # If not defined, will display current year and author, eg: ©2018 • Superman
@@ -38,7 +38,7 @@ footer:
   theme: false
 
   # Custom text can be defined here.
-  # custom: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+  custom: Since Jan,2017 · V2.0 · Beijing
 
 # Disqus comments
 disqus:

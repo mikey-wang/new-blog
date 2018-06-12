@@ -14,3 +14,5 @@ I am an IT developer focusing on web technology, and a strong advocate and belie
 I have an Economics degree, and once worked for a local college in Shanghai as an assistant professor.
 
 In spare time, I like reading book, surfing internet, watching movie and taking a leisurely walk outdoors.
+
+zhihu disqus

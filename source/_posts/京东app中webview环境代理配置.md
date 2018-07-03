@@ -98,17 +98,17 @@ thumbnail: images/others/jd.jpg
  
 如若有任何问题，请咚咚联系以获取支持，谢谢。
 
-  [1]: http://mickeywang.com
+  [1]: https://mickeywang.com
   [2]: https://www.zhihu.com/people/laughingHome
   [3]: https://www.charlesproxy.com/latest-release/download.do
   [4]: https://www.zzzmode.com/mytools/charles/
   [5]: http://wifi.360.cn/easy/pc
   [6]: http://blog.devtang.com/2015/11/14/charles-introduction/
   [7]: http://blog.devtang.com/2015/11/14/charles-introduction/
-  [8]: http://static.zybuluo.com/MickeyWang/ass6d4cbd9xw9t4fup7fvjrf/%E6%8D%95%E8%8E%B7.PNG
-  [9]: http://static.zybuluo.com/MickeyWang/geecver46yky9b6zwnzrlej9/%E6%8D%95%E8%8E%B7.PNG
-  [10]: http://static.zybuluo.com/MickeyWang/b91trmynw9huyzk76dnecwq6/%E6%8D%95%E8%8E%B7.PNG
-  [11]: http://static.zybuluo.com/MickeyWang/9ucpi82g4zf96uzx15h2xc0q/%E6%8D%95%E8%8E%B7.PNG
-  [12]: http://static.zybuluo.com/MickeyWang/o9in5i6y5fddolo49rguang2/%E6%8D%95%E8%8E%B7.PNG
-  [13]: http://static.zybuluo.com/MickeyWang/20aal1bw4paz2cfyruaa4iw5/%E6%8D%95%E8%8E%B7.PNG
-  [14]: http://static.zybuluo.com/MickeyWang/tmis1sna0qwpb8s4nmos3sgh/%E6%8D%95%E8%8E%B7.PNG
+  [8]: images/tech/JDapp_proxy_1.PNG
+  [9]: images/tech/JDapp_proxy_2.PNG
+  [10]: images/tech/JDapp_proxy_3.PNG
+  [11]: images/tech/JDapp_proxy_4.PNG
+  [12]: images/tech/JDapp_proxy_5.PNG
+  [13]: images/tech/JDapp_proxy_6.PNG
+  [14]: images/tech/JDapp_proxy_7.PNG

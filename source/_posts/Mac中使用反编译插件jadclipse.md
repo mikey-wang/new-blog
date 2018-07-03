@@ -29,8 +29,6 @@ categories:
  
 
 
-  [2]: http://static.zybuluo.com/MickeyWang/lb137r9gqtd1283kjg7ysddt/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.26.43.png
-  [3]: http://static.zybuluo.com/MickeyWang/xnlsxtiivpnan6tniniqmxv9/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.31.35.png
-  [4]: http://static.zybuluo.com/MickeyWang/bp8ovq8n8bg0crfpc6o8xsj8/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.31.50.png
-   [5]: http://mickeywang.com/
-  [6]: http://weibo.com/MickeyLaughing
+  [2]: images/tech/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.26.43.png
+  [3]: images/tech/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.31.35.png
+  [4]: images/tech/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-08-27%20%E4%B8%8B%E5%8D%886.31.50.png

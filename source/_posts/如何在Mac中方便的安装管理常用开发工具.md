@@ -30,6 +30,6 @@ HomeBrew安装完成后，使用brew install这个命令，就可以一次安装
 
   [1]: http://mickeywang.com/
   [2]: http://weibo.com/MickeyLaughing
-  [6]: http://static.zybuluo.com/MickeyWang/qczxuvfkew6gjbjqerhmiqeb/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-30%20%E4%B8%8B%E5%8D%889.23.38.png
-  [7]: http://static.zybuluo.com/MickeyWang/7skhydj8ra9qe39gacew7lpf/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-30%20%E4%B8%8B%E5%8D%889.14.08.png
+  [6]: images/tech/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-30%20%E4%B8%8B%E5%8D%889.23.38.png
+  [7]: images/tech/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-30%20%E4%B8%8B%E5%8D%889.14.08.png
   [8]: https://github.com/Homebrew/brew/blob/master/docs/FAQ.md

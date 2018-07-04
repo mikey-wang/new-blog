@@ -1,18 +1,19 @@
 ---
 title: About Me
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Huang Yi
-Graduated from USTB，master of Computer Science. Used to work in Baidu Inc，now work in DiDiTaxi Inc. I'm an expert in front-end.
+Welcome to My Blog. My name is Michael Wang. You can call me Mickey. I was born in 1990s.
 
-## Ruan Yi Feng
-My name is Ruan YiFeng(阮一峰). You can call me Frank. I was born in 1970s.
+I am a software developer focusing on web technology, used to work in Bank of China Inc, Now work in internet industry. Employed by JD.com as an front-end engineer.
 
-I am an IT developer focusing on web technology, and a strong advocate and believer of Free Software. Now I am employed by Alipay.com as an Node/JavaScript engineer.
+I have an engineering degree. In spare time, I enjoy surfing internet, reading book about finance, business and IT technology etc.
 
-I have an Economics degree, and once worked for a local college in Shanghai as an assistant professor.
+You can check my social media on the left side of the page for more info. If you get any problems when viewing my home page, you can contact me by above-mentioned social media.
 
-In spare time, I like reading book, surfing internet, watching movie and taking a leisurely walk outdoors.
+P.S [My ZhiHu Home Page](https://www.zhihu.com/people/laughingHome/activities)
 
-zhihu disqus
+You can come up with suggest, add comments or reply others comments on the end of each article, as long as your device in a open network that can access [disqus](https://disqus.com/home/forums/mwb-1/?l=zh). 
+
+I would be grateful if you follow my account or comment on my article.
+
+

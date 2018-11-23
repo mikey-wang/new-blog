@@ -2,11 +2,11 @@
 title: About Me
 ---
 
-Welcome to My Blog. My name is Michael Wang. You can call me Mickey. I was born in 1990s.
+Welcome to My Blog. My name is Michael Wang. You can call me Mikey. I was born in 1990s.
 
 I am a software developer focusing on web technology, used to work in Bank of China Inc, Now work in internet industry. Employed by JD.com as an front-end engineer.
 
-I have an engineering degree. In spare time, I enjoy surfing internet, reading book about finance, business and IT technology etc.
+I have an engineering degree. In spare time, I enjoy surfing internet, reading books about finance, business and IT technology etc.
 
 You can check my social media on the left side of the page for more info. If you get any problems when viewing my home page, you can contact me by above-mentioned social media.
 

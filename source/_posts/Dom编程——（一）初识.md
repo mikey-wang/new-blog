@@ -1,6 +1,6 @@
 ---
 title: Dom编程——（一）初识
-author: Mickey
+author: Mikey
 date: 2016-10-03
 tags:
  - JavaScript
@@ -206,4 +206,3 @@ shopping.setAttribute("title", "a list of goods");
  5. setAttribute;
 
 本篇内容偏重于理论，DOM还提供了许多其他的属性和方法，在接下来的博文中，我们将通过一个图片库的案例来进一步展示DOM的强大威力。
- 

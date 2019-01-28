@@ -1,6 +1,6 @@
 ---
 title: 由setTimeout深入JavaScript执行环境的异步机制
-author: Mickey
+author: Mikey
 date: 2017-05-23
 tags:
  - JavaScript

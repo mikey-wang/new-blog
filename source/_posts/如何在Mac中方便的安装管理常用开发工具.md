@@ -1,6 +1,6 @@
 ---
 title: 如何在Mac中方便的安装管理常用开发工具
-author: Mickey
+author: Mikey
 date: 2016-10-30
 tags:
  - 工具与技巧

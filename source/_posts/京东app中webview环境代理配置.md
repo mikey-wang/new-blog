@@ -1,6 +1,6 @@
 ---
 title: 京东app中webview环境代理配置
-author: Mickey
+author: Mikey
 date: 2018-01-26
 tags:
  - forJD

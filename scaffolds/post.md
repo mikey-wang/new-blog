@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-author: Mickey
+author: Mikey
 tags:
 categories:
 thumbnail: 

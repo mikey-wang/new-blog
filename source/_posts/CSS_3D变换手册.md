@@ -8,7 +8,6 @@ categories:
  - 技术博客
 thumbnail: images/tech/cube.jpg
 ---
-#CSS 3D变换手册
 
 > 编者按：本手册是对 [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 的译制。本文为手册的介绍部分，[完整手册请移步此](https://css3d.mikey.wang/)。
 
